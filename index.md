@@ -771,3 +771,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </ol>
 </div>
 {% endcomment %}
+<div id="links">
+  <h3>Links</h3>
+
+<ul>
+<li><a href="http://swcarpentry.github.io/shell-novice/">Introduction to using the Shell</a></li>
+<li><a href="http://swcarpentry.github.io/python-novice-inflammation/">Programming with Python</a></li>
+</ul>
+</div>
